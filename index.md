@@ -4,7 +4,7 @@ layout: default
 
 # whoami
 
-Cybersecurity is one of the new trends in the computer world. Both governments and companies are struggling daily to protect their informations or even to be able to get rivals informations. We at pogTeam believe in a true hacker-style team for developing our cyber skills together by playing CTFs contests and discussing every security aspect of technology.
+Cybersecurity is one of the new trends in the computer world. Both governments and companies are struggling daily to protect their informations or even to be able to get rivals informations. im Hamza Abderrahim A self-professed 'massive geek' cybersecurity expert , specialized Networks And Information Security Engineering in PSUT.
 
 
 # CTF?
