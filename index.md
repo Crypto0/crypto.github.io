@@ -9,7 +9,7 @@ Cybersecurity is one of the new trends in the computer world. Both governments a
 
 # CTF?
 
-CTFs (Capture The Flag) are contests in the realm of computer security. It generally comes in two flavors, Jeopardy or Attack-Defense. The first one is the most common and consists of a few categories of challenges, from simple to highly complex ones. We at pogTeam focus at:
+CTFs (Capture The Flag) are contests in the realm of computer security. It generally comes in two flavors, Jeopardy or Attack-Defense. The first one is the most common and consists of a few categories of challenges, from simple to highly complex ones. i focus at :
 
     * Web
     * Steganography
